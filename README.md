@@ -1,2 +1,2 @@
 # README
-A shift reduce dependecy parser to predict projetive tree.
+A shift reduce dependecy parser to predict non-projetive tree.
